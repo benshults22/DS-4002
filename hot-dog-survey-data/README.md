@@ -6,8 +6,8 @@ We collected data from students by having them filling out a survey. The raw dat
     * Hotdog Form
     * [https://myuva-my.sharepoint.com/:x:/g/personal/tbh7cm_virginia_edu/EU5yFl_KW5FGhbHH7qBTUhgBp9r1UPJ_iS4GKGTcA2PJ-A?e=HxAxGm](https://docs.google.com/spreadsheets/d/1z4VoHIfIoRG2P-WKlHVNS5XF46OhWJncrMPwcWi3f0w/edit?gid=847750222#gid=847750222)
 * Data Dictionary:
-    * Included within the HotdogSurvey.csv
+    * Included within the HotdogSurvey.xlsx
 * Raw Data:
-* Established Data: Combined Yik Yak, Survey, and Srat/Frat Data
+* Established Data: Google Form Data
 
 
